@@ -31,12 +31,12 @@
     <link href="website.css" rel="stylesheet" />
 </head>
 <body class = "profile-page">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
     <script src="nowUi/assets/js/now-ui-kit.js"></script>
-
+    <script src="nowUi/assets/js/website.js"></script>
     <!-- Plugins -->
     <script src="nowUi/assets/js/plugins/moment.min.js"></script>
     <script src="nowUi/assets/js/plugins/bootstrap-switch.js"></script>
@@ -46,6 +46,58 @@
     <script src="nowUi/assets/js/plugins/nouislider.min.js"></script>
     <script src="nowUi/assets/js/plugins/bootstrap-datetimepicker.js"></script>
 
+    <nav class="navbar navbar-expand-lg bg-white navbar-transparent fixed-top navbar-expand-lg bg-primary" color-on-scroll="250">
+      <div class="container">
+        <div class="navbar-translate">
+          <a class="navbar-brand" href="#">Aravind Segu</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-bar bar1"></span>
+              <span class="navbar-toggler-bar bar2"></span>
+              <span class="navbar-toggler-bar bar3"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" onclick="goToByScroll('about')">
+                <i class="now-ui-icons users_single-02"></i>
+                About Me
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" onclick="goToByScroll('numbers')">
+                <i class="now-ui-icons business_chart-pie-36"></i>
+                Numbers
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" onclick="goToByScroll('internships')">
+                <i class="now-ui-icons business_briefcase-24"></i>
+                Internships
+              </a>
+            </li>
+            <li class="nav-item" onclick="goToByScroll('hackathons')">
+              <a class="nav-link" href="#">
+                <i class="now-ui-icons business_bulb-63"></i>
+                Hackathons
+              </a>
+            </li>
+            <li class="nav-item" onclick="goToByScroll('projects')">
+              <a class="nav-link" href="#">
+                <i class="now-ui-icons design-2_ruler-pencil"></i>
+                Projects
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="now-ui-icons business_badge"></i>
+                Contact
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
     <div class = "wrapper">
         <div class="page-header page-header-small header-filter" filter-color="orange">
             <div class="page-header-image" data-parallax="true" style="background-image:url('nowUi/assets/img/waterlooCampus.jpg');"></div>
@@ -58,11 +110,11 @@
             </div>
         </div>
         <div class="section" style="padding:0px">
-            <div class="container">
+            <div class="container" id="about">
                 <h3 class="title">About Me</h3>
                 <h5 class="description text-center">A third year software engineering student at University of Waterloo, currently working as a backend software engineer at Reebee. I am an avid programmer with a keen interest in entrepreneurship with the aim to bring a positive change to society.</h5>
             </div>
-            <div class="container">
+            <div class="container" id="numbers">
                 <h3 class="title">Me in Numbers</h3>
                 <div class = "row">
                     <div class="col-sm-12 col-md-8">
@@ -142,7 +194,7 @@
             </div>
         </div>
         <div class="section">
-            <div class="container">
+            <div class="container" id="internships">
                 <h3 class="title">Work Experience</h3>
                 <div class = "row">
                     <div class="col-md-4 hideClass">
@@ -194,7 +246,7 @@
                                             </li>
                                             <li>
                                                 <p class="card-text cardText">
-                                                    <span class="reebeeBold"> More Projects to Come!</span>
+                                                     More Projects to Come!</span>
                                                 </p>
                                             </li>
                                         </ul>
@@ -300,14 +352,14 @@
             </div>
         </div>
         <div class="section">
-            <div class="container">
+            <div class="container" id="hackathons">
                 <h3 class="title">Hackathons</h3>
                 <div class = row>
-                    <div class="col-md-8">
+                    <div class="col-md-7">
                         <div style="float:right">
                             <div style="display: table-row">
                                 <div class = "" style="display: table-cell">
-                                    <div class="hexagon hexagonGreen imageAnimation" >
+                                    <div class="hexagon hexagonGreen imageAnimation nav-link" tabindex="0" id="ecHacks">
                                         <span>
                                             <img src="nowUi/assets/img/electricCity.png" style="margin-left:28%; max-width:40%">
                                             <p class="card-text" style="text-align: center; margin-top:5%">Electric City Hacks</p>
@@ -315,7 +367,7 @@
                                     </div>
                                 </div>
                                 <div class="" style="display: table-cell">
-                                    <div class="hexagon hexagonBlack imageAnimation" style="margin-left:-95%">
+                                    <div class="hexagon hexagonBlack imageAnimation" style="margin-left:-95%" tabindex ="0" id = "conUHacks">
                                         <span>
                                              <img src="nowUi/assets/img/conUHacks.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
                                             <p class="card-text" style="text-align: center; margin-top:5%">ConUHacks</p>
@@ -326,7 +378,7 @@
                             <div style="display: table-row">
                                 <div style="margin-left:26.5%; margin-top:-12%">
                                     <div class="imageAnimation" style="display: table-cell">
-                                        <div class="hexagon hexagonBlue">
+                                        <div class="hexagon hexagonBlue" tabindex ="0" id = "hackTheValley">
                                             <span>
                                                 <img src="nowUi/assets/img/hackTheValley.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
                                                 <p class="card-text" style="text-align: center; margin-top:5%">Hack The Valley</p>
@@ -334,7 +386,7 @@
                                         </div>
                                     </div>
                                     <div class="imageAnimation" style="display: table-cell">
-                                        <div class="hexagon hexagonDarkBlue" style="margin-left:5%">
+                                        <div class="hexagon hexagonDarkBlue" style="margin-left:5%" tabindex ="0" id = "hackTheNorth">
                                             <span>
                                                 <img src="nowUi/assets/img/hackTheNorth.jpg" style="margin-left:30%; max-width:40%;">
                                                  <p class="card-text" style="text-align: center; margin-top:5%">Hack The North</p>
@@ -345,18 +397,89 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="image-container">
-                            <div class="image-right">
-                                <img src="nowUi/assets/img/bitmojiComputer.png" alt="" style="max-width: 200%">
+                    <div class="col-md-5">
+                          <div class="image-container hackImage">
+                              <div class="image-right">
+                                  <img src="nowUi/assets/img/bitmojiComputer.png" alt="" style="max-width: 200%">
+                              </div>
+                          </div>
+                        <div class="card ecHacksBoxShadow hideCard" id="munch" style="width:120%">
+                            <div class="card-body">
+                                <h4 class="card-title">
+                                  Munch
+                                  <a href="https://devpost.com/software/munch-emsv0u" target="_blank">
+                                    <i class="now-ui-icons business_globe imageAnimation" style="float:right" data-toggle="tooltip" data-placement="bottom" title="Learn more on Devpost"></i>
+                                  </a>
+                                </h4>
+                                <h6 class="card-subtitle mb-2 text-muted">Top 5 and Wolfram Alpha Award</h6>
+                                <p class="card-text">
+                                  Munch is a cross-platform mobile app, which allows users to learn the nutritional information of their food with a quick picture.
+                                  Munch utilizes a <span class="ecHacksBold">machine learning</span> and <span class="ecHacksBold">artificial intelligence</span> library,
+                                  <span class="ecHacksBold">Clarifai</span> to perform image recognition and identify the food snapped by the user.
+                                  Once the photo is retrieved a <span class="ecHacksBold">node</span> server, hosted on <span class="ecHacksBold">AWS</span>, utilizes the image information to query a
+                                  nutritional database and retrieve all the necessary information about the food. This information is then stored and the user
+                                  can keep track of their food intake using various informative graphs. The app was built using Ionic, in order to serve both
+                                  <span class="ecHacksBold">Iphone</span> and <span class="ecHacksBold">Android</span> users.
+                                </p>
                             </div>
+                      </div>
+                      <div class="card conUHacksBoxShadow hideCard" id="checkr" style="width:120%">
+                          <div class="card-body">
+                              <h4 class="card-title">
+                                Checkr
+                                <a href="https://devpost.com/software/checkr-ycam0z" target="_blank">
+                                  <i class="now-ui-icons business_globe imageAnimation" style="float:right" data-toggle="tooltip" data-placement="bottom" title="Learn more on Devpost"></i>
+                                </a>
+                              </h4>
+                              <!-- <h6 class="card-subtitle mb-2 text-muted">Top 5 and Wolfram Alpha Award</h6> -->
+                              <p class="card-text">
+                                CheckR is a cross platform mobile app which uses <span class="conUHacksBold">Optical Character Recognition</span> in order to find spelling mistakes in handwriting.
+                                Once a user takes a pictures of their notes with the camera, CheckR uses <span class="conUHacksBold">Microsoft Azure</span> Machine Learning API in order to recognize
+                                words from the image. Once recognized these words are checked in the dictionary and the misspelled words are alerted to the user. The mobile app for CheckR was built using
+                                Ionic as it will be able to serve both IOS and Android users.
+                              </p>
+                          </div>
+                    </div>
+                    <div class="card hackTheValleyBoxShadow hideCard" id="findr" style="width:120%">
+                        <div class="card-body">
+                            <h4 class="card-title">
+                              Findr
+                              <a href="https://devpost.com/software/findr-tecs5h" target="_blank">
+                                <i class="now-ui-icons business_globe imageAnimation" style="float:right" data-toggle="tooltip" data-placement="bottom" title="Learn more on Devpost"></i>
+                              </a>
+                            </h4>
+                            <h6 class="card-subtitle mb-2 text-muted">MLH 3rd Place </h6>
+                            <p class="card-text">
+                              FindR is an <span class="hackTheValleyBold">autonomous self-driving robot</span> that is designed to help people in distress in times of emergencies. FindR aims to help firefighters by implementing <span class="hackTheValleyBold">advanced
+                              people recognition</span>. With robust self-driving capabilities this robot can navigate through corridors and search rooms for people. If found, the FindR sends the GPS
+                              Co-ordinates along with pictures to a web interface for emergency crews to analyze the situation and respond accordingly. Additionally, FindR paths its route allowing
+                              firefighters to follow after it in areas of heavy smoke or dark areas. The robot was built with a <span class="hackTheValleyBold">Raspberry-Pi</span> and utilizes <span class="hackTheValleyBold">OpenCV</span> and <span class="hackTheValleyBold">Firebase</span> to recognize humans and send
+                              real time updates.
+                            </p>
                         </div>
                     </div>
+                    <div class="card hackTheNorthBoxShadow hideCard" id="packetty" style="width:120%">
+                        <div class="card-body">
+                            <h4 class="card-title">
+                               Packetty
+                              <a href="https://devpost.com/software/packetty" target="_blank">
+                                <i class="now-ui-icons business_globe imageAnimation" style="float:right" data-toggle="tooltip" data-placement="bottom" title="Learn more on Devpost"></i>
+                              </a>
+                            </h4>
+                            <!-- <h6 class="card-subtitle mb-2 text-muted">MLH 3rd Place </h6> -->
+                            <p class="card-text">
+                              Packetty is an <span class="hackTheNorthBold">intelligent motion detection</span> system built around everyday <span class="hackTheNorthBold">WiFi</span> transmitting devices. Combined with <span class="hackTheNorthBold">Azure</span> and <span class="hackTheNorthBold">Firebase</span> this
+                              application provides a robust security solution with <span class="hackTheNorthBold">real time image recognition</span>
+                              and on demand alerts to ensure that the users always have a watch on their property. The users have access to an <span class="hackTheNorthBold">android</span> application to be notified and keep track of intruders.
+                            </p>
+                        </div>
+                  </div>
+                </div>
                 </div>
             </div>
         </div>
         <div class="section">
-            <div class="container">
+            <div class="container" id="projects">
                 <h3 class="title">Projects</h3>
                 <div class="row">
                     <div class="col-sm-12 col-md-3 col-lg-3">

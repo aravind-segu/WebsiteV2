@@ -29,6 +29,25 @@
     font-weight: 500;
 }
 
+.ecHacksBold{
+  color: rgb(19,100,63);
+  font-weight: 500;
+}
+
+.conUHacksBold{
+  color: rgb(51,51,51);
+  font-weight: 500;
+}
+
+.hackTheValleyBold{
+  color: rgb(178,211,78);
+  font-weight: 500;
+}
+
+.hackTheNorthBold{
+  color: rgb(0,112,150);
+  font-weight: 500;
+}
 .cardText {
     text-align: justify;
 }
@@ -144,34 +163,4 @@
 
 .popover{
     max-width: 25%;
-}
-
-.flip-container{
-    perspective: 1000px;
-}
-
-.flip-container:focus .flipper, .flip-container.focus .flipper{
-    transform: rotateY(0deg);
-}
-
-.flipper{
-    transition: 0.6s;
-    transform-style: preserve-3d;
-    position: relative;
-}
-
-.front, .back {
-    backface-visibility: hidden;
-    position: absolute;
-    top: 0;
-    left:0;
-}
-
-.front{
-    z-index: 2;
-    transform: rotateY(0deg);
-}
-
-.back{
-    transform: rotateY(180deg);
 }
