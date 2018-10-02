@@ -37,6 +37,7 @@
 
     <script src="nowUi/assets/js/now-ui-kit.js"></script>
     <script src="nowUi/assets/js/website.js"></script>
+    <script src="nowUi/assets/js/typed.min.js"></script>
     <!-- Plugins -->
     <script src="nowUi/assets/js/plugins/moment.min.js"></script>
     <script src="nowUi/assets/js/plugins/bootstrap-switch.js"></script>
@@ -106,7 +107,7 @@
                     <img src="nowUi/assets/img/profileBitmoji.png" alt="">
                 </div>
                 <h2 class="title">Aravind Segu</h2>
-                <h4 class="category">Software Engineer . University Of Waterloo</h4>
+                <h4 class="category"><span class="typingText"></span></h4>
             </div>
         </div>
         <div class="section" style="padding:0px">
@@ -482,31 +483,39 @@
             <div class="container" id="projects">
                 <h3 class="title">Projects</h3>
                 <div class="row">
-                    <div class="col-sm-12 col-md-3 col-lg-3">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="image-container">
                             <div class="image-left">
                                 <img src="nowUi/assets/img/projectBitmoji.png" alt = "">
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div class="col-sm-12 col-md-4 col-lg-4 flipCard">
+                        <div class="card">
+                          <div class="flipCardInner">
+                            <div class="flipCardFront">
+                              <img class="card-img-top" src="nowUi/assets/img/comparator.png" alt="Card image cap">
+                              <div class="card-body">
+                                  <h4 class="card-title">Compare and Buy</h4>
+                                  <h6 class="card-subtitle mb-2 text-muted">Python</h6>
+                              </div>
                             </div>
+                            <div class="flipCardBack">
+                              <div class="card-body">
+                                <p class="card-text">With the dawn of e-commerce, it has become difficult to shop for the best prices.
+                                  This python application utilizes BeautifulSoup, Selenium Libraries in combination with multi-threading
+                                  to effectively scrape 8 e-commerce websites. The websites include: Amazon, BestBuy, NewEgg, Source,
+                                  Staples, Walmart, Flipkart and Snapdeal. The major features of this project include its ability to
+                                   compare products in websites around the world such as Flipkart. The front end for this project
+                                   utilizes the Flask Library in Python to create an elegant user interface for users to navigate
+                                   through and shop for the best prices.</p>
+                              </div>
+                            </div>
+                          </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="card">
                             <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -515,31 +524,41 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-12 col-md-3 col-lg-3">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="card">
+                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                            <div class="card-body">
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="image-container">
                             <div class="image-left">
                                 <img src="nowUi/assets/img/projectBitmoji.png" alt = "">
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="card">
                             <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="card">
                             <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="card">
                             <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>

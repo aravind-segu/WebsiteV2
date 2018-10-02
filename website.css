@@ -164,3 +164,28 @@
 .popover{
     max-width: 25%;
 }
+
+.flipCard{
+  background-color: transparent;
+  perspective: 1000px;
+  box-shadow: 0 5px 25px 0 rgba(0,0,0,.2);
+}
+
+.flipCardInner {
+  position:relative;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flipCard:hover .flipCardInner{
+  transform:rotateY(180deg);
+}
+
+.flipCardFront, .flipCardBack {
+  position:absolute;
+  backface-visibility: hidden;
+}
+
+.flipCardBack{
+  transform: rotateY(180deg);
+}
