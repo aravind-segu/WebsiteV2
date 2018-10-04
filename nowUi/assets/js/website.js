@@ -5,6 +5,12 @@ function goToByScroll(id) {
 }
 
 $(document).ready(function(){
+
+  $.fn.carousel.defaults = {
+     interval: false
+   , pause: 'hover'
+   }
+
   var typed = new Typed('.typingText', {
   strings: ["Software Engineer . University Of Waterloo", "Passionate Developer",
   "Backend Software Engineer at Reebee", "Oracle Certified Java Developer", "MLH Hackathon Medalist", "Dean's Honour's List Student"],
@@ -14,8 +20,24 @@ $(document).ready(function(){
   loop: true
 });
 
+  $('.carousel').carousel({interval: false});
+  $(".carouselCardItem").click(function(event) {
+        $('.activeCarouselCard').removeClass("activeCarouselCard");
+        $(this).addClass("activeCarouselCard");
+  });
+
   $('.hideCard').hide();
+
+  nowuiKit.initContactUs2Map();
 });
+
+
+$(document).on('mouseleave', '.carousel', function() {
+
+    $(this).carousel('pause');
+});
+
+
 $(document).mouseup(function(e)
 {
     var ecHackContainer = $("#ecHacks");

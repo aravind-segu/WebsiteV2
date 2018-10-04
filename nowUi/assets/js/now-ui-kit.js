@@ -410,10 +410,10 @@ nowuiKit = {
 
 
   initContactUs2Map: function() {
-    var myLatlng = new google.maps.LatLng(40.748817, -73.985428);
+    var myLatlng = new google.maps.LatLng(43.472531, -80.533226);
     var mapOptions = {
-      zoom: 13,
-      center: myLatlng,
+      zoom: 14,
+      center: new google.maps.LatLng(43.470404, -80.567725),
       scrollwheel: false, //we disable de scroll over the map, it is a really annoing when you scroll through page
       styles: [{
         "featureType": "water",

@@ -189,3 +189,27 @@
 .flipCardBack{
   transform: rotateY(180deg);
 }
+
+.carousel-inner,.carousel,.carousel-item,.fill {
+    height:100%;
+    min-height:400px;
+    width:100%;
+    background-position:center center;
+    background-size:cover;
+}
+
+.carouselCard{
+  position: absolute;
+  margin-left:100%;
+}
+
+.carouselCardItem{
+  height: 58px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.activeCarouselCard{
+  opacity: 1;
+  border-left: solid;
+}
