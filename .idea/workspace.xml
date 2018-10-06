@@ -2,501 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740e923f-e6ba-4b7b-80a8-fc29859ff8af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/css/now-ui-kit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/css/now-ui-kit.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/css/now-ui-kit.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/demo/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/fonts/nucleo-license.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/fonts/nucleo-outline.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/fonts/nucleo-outline.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/fonts/nucleo-outline.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/fonts/nucleo-outline.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/apple-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/balmain.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bg9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917085421.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100052.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100213.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100338.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100345.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100407.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100443.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100450.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100623.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917100631.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180917105747.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji-20180923125933.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bitmojiComputer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/blog1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/bluejay.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/blurred-image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/boglioli.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/card-blog2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/card-blog3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/comparator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/conUHacks.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/contact-us-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/contact1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/cov1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/creative-tim-white-slim2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/default-avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/devpost.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/drwLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/electricCity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/emily.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/emilyz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-blog9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-profile1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-profile3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/card-project1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/examples/office1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AD.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/AU.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/BE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/BF.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/BO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/BR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CD.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/CZ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/DE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/DJ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/DK.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/DZ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/EE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/EG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/ES.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/FI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/FR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/GA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/GB.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/GM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/GT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/HN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/HT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/HU.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/ID.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/IT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/JM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/JO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/JP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KW.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/KZ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LB.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LU.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/LV.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/MG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/MK.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/ML.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/MM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/MT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/MX.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/NO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/OM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PK.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/PY.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/QA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/RO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/RU.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/RW.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/SV.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/TD.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/TJ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/TL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/TR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/TZ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/UA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/US.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/VE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/VN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/flags/YE.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/github.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/gucci.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/hackTheNorth.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/hackTheValley.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/hero-image-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/hero-image-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/hero-image-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/image_placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/infinite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/invision-white-slim.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/ipad2-inverted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/ipad2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/ipad3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/iphone2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/james.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/julie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/kingsman.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/landing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/login.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/logo-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/marie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/michael.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/mike.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/now-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/nucleo-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/numbersBitmoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/olivia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/polo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pp-cov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/prada.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/about-us.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/blog-post.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/blog-posts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/contact.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/ecommerce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/landing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/login.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/pricing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/product.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/Pages/signup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/basic_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/bg50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/blogpost1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/blogpost2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/blogpost3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/blogpost4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/blogpost5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/card7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/cards_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/coloured-card-with-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/coloured-card.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/contact1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/contact2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/content1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/content3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/content3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/content4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/content4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/features8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/harvard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/header1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/header2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/header3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/header4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/header5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/linkedin-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/microsoft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/nuk-pro-back-sky-black.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/nuk-pro-back-sky-orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/nuk-pro-back-sky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/nuk-pro-buildings-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/nuk-pro-buildings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pages2_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pages_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pricing1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pricing2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pricing3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pricing4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/pricing5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/projects1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/projects2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/projects3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/projects4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/projects5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/sections_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/share-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/social-row.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/stanford.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/table.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/team1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/team2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/team3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/team4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/team5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/testimonials1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/testimonials2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/testimonials3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/presentation-page/vodafone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pricing1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pricing2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pricing3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/pricing4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/product1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/product2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/product3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/profileBitmoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project5 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/project9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/projectBitmoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/reebeeLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/ryan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/saint-laurent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/saint-laurent1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/smartLogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/sweeney.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/third.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/tom-ford.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/usher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/waterlooCampus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/wooyoungmi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/img/workBitmoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/core/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/core/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/core/popper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/jquery.flip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/now-ui-kit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/now-ui-kit.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/now-ui-kit.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/bootstrap-datetimepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/bootstrap-selectpicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/bootstrap-switch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/bootstrap-tagsinput.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/jasny-bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/nouislider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/plugins/presentation-page/rellax.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/typed.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/js/website.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_checkboxes-radio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_dropdown-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_example-pages.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_footers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_info-areas.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_inputs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_misc.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_modals-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_modals.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_navbar-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_nucleo-outline.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_pills-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_pills.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_popups.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_responsive.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_sections-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_sections.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_social-buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_tabs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-contact.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-fashion.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-form-horizontal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-no-shadow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-plain.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-pricing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-product.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-profile.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-raised.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-signup.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/cards/_card-testimonials.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_datepicker.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_inputs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_modals.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_pages.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_popovers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_social-buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_tags.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_transparency.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/mixins/_vendor-prefixes.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-bootstrap-select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-bootstrap-switch.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-datepicker.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-datetimepicker.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-fileupload.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-nouislider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-perfect-scrollbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/plugins/_plugin-tagsinput.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_blogs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_contactus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_features.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_headers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_pricing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_projects.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_social-subscribe-lines.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_team.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/assets/scss/now-ui-kit/sections/_testimonials.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/docs/documentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/about-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/blog-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/blog-posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/contact-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/ecommerce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/landing-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/login-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/product-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/profile-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/examples/signup-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/nucleo-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/presentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nowUi/sections.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/website.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/website.css" afterPath="$PROJECT_DIR$/assets/css/website.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -514,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="727">
+              <caret line="527" column="59" lean-forward="false" selection-start-line="527" selection-start-column="59" selection-end-line="527" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -581,19 +88,26 @@
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#48659#48665#0" expanded="true" />
+                <element signature="e#49152#49158#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -604,8 +118,8 @@
       <file leaf-file-name="website.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/website.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="261" column="21" lean-forward="true" selection-start-line="261" selection-start-column="21" selection-end-line="261" selection-end-column="21" />
+            <state relative-caret-position="269">
+              <caret line="158" column="11" lean-forward="false" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -614,8 +128,8 @@
       <file leaf-file-name="website.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="378">
+              <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -662,7 +176,10 @@
       <find>carousel</find>
       <find>map</find>
       <find>nowui/</find>
+      <find>image-container</find>
       <find>loaderIm</find>
+      <find>get</find>
+      <find>hexagon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -676,8 +193,8 @@
         <option value="$PROJECT_DIR$/website.css" />
         <option value="$PROJECT_DIR$/nowUi/assets/js/website.js" />
         <option value="$PROJECT_DIR$/nowUi/assets/js/now-ui-kit.js" />
-        <option value="$PROJECT_DIR$/assets/css/website.css" />
         <option value="$PROJECT_DIR$/assets/js/website.js" />
+        <option value="$PROJECT_DIR$/assets/css/website.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -689,8 +206,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
+    <option name="x" value="371" />
+    <option name="y" value="61" />
+    <option name="width" value="1407" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -780,12 +298,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63457000" />
+    <option name="totallyTimeSpent" value="65171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -893,19 +412,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1046,19 +572,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1187,19 +720,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1328,19 +868,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1461,19 +1008,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1590,26 +1144,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/website.css">
+    <entry file="file://$PROJECT_DIR$/assets/js/website.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="261" column="21" lean-forward="true" selection-start-line="261" selection-start-column="21" selection-end-line="261" selection-end-column="21" />
+        <state relative-caret-position="378">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/website.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/website.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        <state relative-caret-position="269">
+          <caret line="158" column="11" lean-forward="false" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="727">
+          <caret line="527" column="59" lean-forward="false" selection-start-line="527" selection-start-column="59" selection-end-line="527" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1675,19 +1229,26 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#48659#48665#0" expanded="true" />
+            <element signature="e#49152#49158#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
