@@ -4,9 +4,45 @@ function goToByScroll(id) {
     }, 'slow');
 }
 
+var open = function() {
+    $('.preloader').addClass('complete');
+    $('.stopScrolling').removeClass("stopScrolling");
+    $('.carousel').each(function(){
+        $(this).carousel({
+            interval: false
+        });
+    });
+    var typed = new Typed('.typingText', {
+        strings: ["Software Engineer . University Of Waterloo", "Passionate Developer",
+            "Backend Software Engineer at Reebee", "Oracle Certified Java Developer", "MLH Hackathon Medalist", "Dean's Honour's List Student"],
+        typeSpeed: 40,
+        backSpeed: 20,
+        backDelay: 500,
+        loop: true
+    });
+
+    // $('.carousel').carousel({interval: false});
+    $(".carouselCardItem").click(function(event) {
+        $('.activeCarouselCard').removeClass("activeCarouselCard");
+        $(this).addClass("activeCarouselCard");
+    });
+
+    $('.hideCard').hide();
+
+    nowuiKit.initContactUs2Map();
+}
+
 $(document).ready(function(){
-  $('.hideCard').hide();
+    setTimeout( open, 2300 );
 });
+
+
+// $(document).on('mouseleave', '.carousel', function() {
+//
+//     $(this).carousel('pause');
+// });
+
+
 $(document).mouseup(function(e)
 {
     var ecHackContainer = $("#ecHacks");

@@ -9,12 +9,12 @@
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">-->
 
     <!--&lt;!&ndash; NOW UI Kit CSS &ndash;&gt;-->
-    <!--<link rel="stylesheet" href="nowUi/assets/css/now-ui-kit.css">-->
+    <!--<link rel="stylesheet" href="assets/css/now-ui-kit.css">-->
 <!--</head>-->
 <head>
     <meta charset="utf-8" />
-    <link rel="apple-touch-icon" sizes="76x76" href="nowUi/assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="nowUi/assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/asLogo.png">
+    <link rel="icon" type="image/png" href="assets/img/asLogo.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>
         Aravind Segu
@@ -24,28 +24,34 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200|Open+Sans+Condensed:700" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <!-- CSS Files -->
-    <link href="nowUi/assets/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="nowUi/assets/css/now-ui-kit.css?v=1.2.2" rel="stylesheet" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/now-ui-kit.css?v=1.2.2" rel="stylesheet" />
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
-    <link href="website.css" rel="stylesheet" />
+    <link href="assets/css/website.css" rel="stylesheet" />
 </head>
-<body class = "profile-page">
+<body class = "profile-page stopScrolling">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfv43h6AFzWtNZDb6bhivWVnt3qiae64Y"></script>
 
-    <script src="nowUi/assets/js/now-ui-kit.js"></script>
-    <script src="nowUi/assets/js/website.js"></script>
+    <script src="assets/js/now-ui-kit.js"></script>
+    <script src="assets/js/website.js"></script>
+    <script src="assets/js/typed.min.js"></script>
+
     <!-- Plugins -->
-    <script src="nowUi/assets/js/plugins/moment.min.js"></script>
-    <script src="nowUi/assets/js/plugins/bootstrap-switch.js"></script>
-    <script src="nowUi/assets/js/plugins/bootstrap-tagsinput.js"></script>
-    <script src="nowUi/assets/js/plugins/bootstrap-selectpicker.js"></script>
-    <script src="nowUi/assets/js/plugins/jasny-bootstrap.min.js"></script>
-    <script src="nowUi/assets/js/plugins/nouislider.min.js"></script>
-    <script src="nowUi/assets/js/plugins/bootstrap-datetimepicker.js"></script>
-
+    <script src="assets/js/plugins/moment.min.js"></script>
+    <script src="assets/js/plugins/bootstrap-switch.js"></script>
+    <script src="assets/js/plugins/bootstrap-tagsinput.js"></script>
+    <script src="assets/js/plugins/bootstrap-selectpicker.js"></script>
+    <script src="assets/js/plugins/jasny-bootstrap.min.js"></script>
+    <script src="assets/js/plugins/nouislider.min.js"></script>
+    <script src="assets/js/plugins/bootstrap-datetimepicker.js"></script>
+    <div class="preloader">
+        <img src="assets/img/loaderLoago.png" class="loaderImage animated zoomIn">
+        <p class="loaderText animated zoomIn">ARAVIND SEGU</p>
+    </div>
     <nav class="navbar navbar-expand-lg bg-white navbar-transparent fixed-top navbar-expand-lg bg-primary" color-on-scroll="250">
       <div class="container">
         <div class="navbar-translate">
@@ -88,7 +94,7 @@
                 Projects
               </a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" onclick="goToByScroll('contact')">
               <a class="nav-link" href="#">
                 <i class="now-ui-icons business_badge"></i>
                 Contact
@@ -100,13 +106,13 @@
     </nav>
     <div class = "wrapper">
         <div class="page-header page-header-small header-filter" filter-color="orange">
-            <div class="page-header-image" data-parallax="true" style="background-image:url('nowUi/assets/img/waterlooCampus.jpg');"></div>
+            <div class="page-header-image" data-parallax="true" style="background-image:url('assets/img/waterlooCampus.jpg');"></div>
             <div class="container">
                 <div class="photo-container">
-                    <img src="nowUi/assets/img/profileBitmoji.png" alt="">
+                    <img src="assets/img/profileBitmoji.png" alt="">
                 </div>
                 <h2 class="title">Aravind Segu</h2>
-                <h4 class="category">Software Engineer . University Of Waterloo</h4>
+                <h4 class="category"><span class="typingText"></span></h4>
             </div>
         </div>
         <div class="section" style="padding:0px">
@@ -123,7 +129,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-one">
-                                            <img class="card-img-top" src="nowUi/assets/img/one.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/one.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center; margin: 0; font-size: 1.2em;">Certification</p>
                                     </div>
@@ -133,7 +139,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-two">
-                                            <img class="card-img-top" src="nowUi/assets/img/two.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/two.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center;margin: 0; font-size: 1.2em; padding:0;">MLH Hackathons Won</p>
                                     </div>
@@ -143,7 +149,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-three">
-                                            <img class="card-img-top" src="nowUi/assets/img/third.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/third.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center;margin: 0; font-size: 1.2em; padding:0;">Year Software Engineer</p>
                                     </div>
@@ -155,7 +161,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-four">
-                                            <img class="card-img-top" src="nowUi/assets/img/four.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/four.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center;margin: 0; font-size: 1.2em; padding:0;">Internships</p>
                                     </div>
@@ -165,7 +171,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-five">
-                                            <img class="card-img-top" src="nowUi/assets/img/five.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/five.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center;margin: 0; font-size: 1.2em; padding:0;">Years of Software Experience</p>
                                     </div>
@@ -175,7 +181,7 @@
                                 <div style="width: 10rem;">
                                     <div class="info info-hover" style="padding: 0;">
                                         <div class="icon icon-infinite">
-                                            <img class="card-img-top" src="nowUi/assets/img/infinite.png" alt="Card image cap">
+                                            <img class="card-img-top" src="assets/img/infinite.png" alt="Card image cap">
                                         </div>
                                         <p class="card-text info-title" style="text-align: center;margin: 0; font-size: 1.2em; padding:0;">Possibilities</p>
                                     </div>
@@ -186,7 +192,7 @@
                     <div class="col-md-4 hideClass">
                         <div class="image-container">
                             <div class="image-right">
-                                <img src="nowUi/assets/img/numbersBitmoji.png" alt = "">
+                                <img src="assets/img/numbersBitmoji.png" alt = "">
                             </div>
                         </div>
                     </div>
@@ -200,7 +206,7 @@
                     <div class="col-md-4 hideClass">
                         <div class="image-container hideClass" style="margin-top:30%">
                             <div class="image-left">
-                                <img src="nowUi/assets/img/workBitmoji.png" alt = "" style="max-width: 120%">
+                                <img src="assets/img/workBitmoji.png" alt = "" style="max-width: 120%">
                             </div>
                         </div>
                     </div>
@@ -208,22 +214,22 @@
                         <ul class="nav nav-pills nav-pills-neutral nav-pills-just-icons" role="tablist" style="margin-left: 20%">
                             <li class="nav-item imageAnimation">
                                 <a class="nav-link active" data-toggle="tab" href="#reebee" role="tablist" style="border-radius: 50%">
-                                    <img src="nowUi/assets/img/reebeeLogo.png" alt="">
+                                    <img src="assets/img/reebeeLogo.png" alt="">
                                 </a>
                             </li>
                             <li class="nav-item imageAnimation">
                                 <a class="nav-link" data-toggle="tab" href="#drw" role="tablist" style="border-radius: 50%">
-                                    <img src="nowUi/assets/img/drwLogo.png" alt="" style="border-radius: 50%">
+                                    <img src="assets/img/drwLogo.png" alt="" style="border-radius: 50%">
                                 </a>
                             </li>
                             <li class="nav-item imageAnimation">
                                 <a class="nav-link" data-toggle="tab" href="#bluejay" role="tablist" style="border-radius: 50%; background-color:darkgrey">
-                                    <img src="nowUi/assets/img/bluejay.gif" alt="" style="border-radius: 50%; margin-top: 42%; margin-left: -5%">
+                                    <img src="assets/img/bluejay.gif" alt="" style="border-radius: 50%; margin-top: 42%; margin-left: -5%">
                                 </a>
                             </li>
                             <li class="nav-item imageAnimation">
                                 <a class="nav-link" data-toggle="tab" href="#smart" role="tablist" style="border-radius: 50%">
-                                    <img src="nowUi/assets/img/smartLogo.jpg" alt="" style="border-radius: 50%">
+                                    <img src="assets/img/smartLogo.jpg" alt="" style="border-radius: 50%">
                                 </a>
                             </li>
                         </ul>
@@ -361,7 +367,7 @@
                                 <div class = "" style="display: table-cell">
                                     <div class="hexagon hexagonGreen imageAnimation nav-link" tabindex="0" id="ecHacks">
                                         <span>
-                                            <img src="nowUi/assets/img/electricCity.png" style="margin-left:28%; max-width:40%">
+                                            <img src="assets/img/electricCity.png" style="margin-left:28%; max-width:40%">
                                             <p class="card-text" style="text-align: center; margin-top:5%">Electric City Hacks</p>
                                         </span>
                                     </div>
@@ -369,7 +375,7 @@
                                 <div class="" style="display: table-cell">
                                     <div class="hexagon hexagonBlack imageAnimation" style="margin-left:-95%" tabindex ="0" id = "conUHacks">
                                         <span>
-                                             <img src="nowUi/assets/img/conUHacks.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
+                                             <img src="assets/img/conUHacks.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
                                             <p class="card-text" style="text-align: center; margin-top:5%">ConUHacks</p>
                                         </span>
                                     </div>
@@ -380,7 +386,7 @@
                                     <div class="imageAnimation" style="display: table-cell">
                                         <div class="hexagon hexagonBlue" tabindex ="0" id = "hackTheValley">
                                             <span>
-                                                <img src="nowUi/assets/img/hackTheValley.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
+                                                <img src="assets/img/hackTheValley.jpg" style="margin-left:30%; max-width:40%; border-radius:50%">
                                                 <p class="card-text" style="text-align: center; margin-top:5%">Hack The Valley</p>
                                             </span>
                                         </div>
@@ -388,7 +394,7 @@
                                     <div class="imageAnimation" style="display: table-cell">
                                         <div class="hexagon hexagonDarkBlue" style="margin-left:5%" tabindex ="0" id = "hackTheNorth">
                                             <span>
-                                                <img src="nowUi/assets/img/hackTheNorth.jpg" style="margin-left:30%; max-width:40%;">
+                                                <img src="assets/img/hackTheNorth.jpg" style="margin-left:30%; max-width:40%;">
                                                  <p class="card-text" style="text-align: center; margin-top:5%">Hack The North</p>
                                             </span>
                                         </div>
@@ -400,7 +406,7 @@
                     <div class="col-md-5">
                           <div class="image-container hackImage">
                               <div class="image-right">
-                                  <img src="nowUi/assets/img/bitmojiComputer.png" alt="" style="max-width: 200%">
+                                  <img src="assets/img/bitmojiComputer.png" alt="" style="max-width: 200%">
                               </div>
                           </div>
                         <div class="card ecHacksBoxShadow hideCard" id="munch" style="width:120%">
@@ -482,74 +488,187 @@
             <div class="container" id="projects">
                 <h3 class="title">Projects</h3>
                 <div class="row">
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="image-container">
-                            <div class="image-left">
-                                <img src="nowUi/assets/img/projectBitmoji.png" alt = "">
-                            </div>
+                  <div class="col-md-3 hideClass" style="padding-right:7%; right:5%">
+                      <div class="image-container hideClass" style="margin-top:30%">
+                          <div class="image-left">
+                              <img src="assets/img/projectBitmoji.png" alt = "" style="max-width: 140%">
+                          </div>
+                      </div>
+                  </div>
+                    <div class="col-md-9 col-lg-9">
+                      <div id = "projectCarousel" class="carousel slide" data-ride="carousel" data-interval="false" style="width:80%">
+                        <div class="card carouselCard" style="margin-left:102%; width:40%; margin-top:0%; box-shadow: 0 0px">
+                          <ul class="list-group list-group-flush">
+                            <li class="list-group-item carouselCardItem activeCarouselCard" data-target="#projectCarousel" data-slide-to="0">
+                              <h6 style="margin-bottom: 0">DriveSafe</h6>
+                              <span> Neural Network </span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="1">
+                              <h6 style="margin-bottom: 0">Compare And Buy</h6>
+                              <span>Web Scraping</span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="2">
+                              <h6 style="margin-bottom: 0">Decuple</h6>
+                              <span>Mobile Game</span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="3">
+                              <h6 style="margin-bottom: 0">Focus</h6>
+                              <span>Chrome Extension</span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="4">
+                              <h6 style="margin-bottom: 0">Quizzlet</h6>
+                              <span>GUI Development</span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="5">
+                              <h6 style="margin-bottom: 0">Jump</h6>
+                              <span>Arduino Development</span>
+                            </li>
+                            <li class="list-group-item carouselCardItem" data-target="#projectCarousel" data-slide-to="6">
+                              <h6 style="margin-bottom: 0">Inventory Management Program</h6>
+                              <span>GUI Development</span>
+                            </li>
+                          </ul>
                         </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                              <div class="card-body">
+                                <h4 class="card-title">DriveSafe</h4>
+                                <h6 class="card-subtitle mb-2 text-muted">Python</h6>
+                                <p class="card-text">
+                                DriveSafe is a three layer neural network built in Python to identify impaired driving. Trained with multiple dashboard camera
+                                images from the Kaggle Database, this neural network performs image recognition to keep drivers safe on the road. The neural Network
+                                utilizes PCA and conjugate graident algorithms to improve the rate of training and uses regularization to preven overfitting.
+                                </p>
+                                <a target="_blank" href="https://github.com/aravind-segu/StateFarmNeuralNetwork" class="card-link">Check It Out on Github</a>
+                              </div>
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Compare and Buy</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">Python, Selenium</h6>
+                              <p class="card-text">
+                              With the dawn of e-commerce, it has become difficult to shop for the best prices. This python application utilizes BeautifulSoup, Selenium Libraries in combination with multi-threading to effectively scrape 8 e-commerce websites. The websites include: Amazon, BestBuy, NewEgg, Source, Staples, Walmart, Flipkart and Snapdeal. The major features of this project include its ability to compare products in websites around the world such as Flipkart. The front end for this project utilizes the Flask Library in Python to create an elegant user interface for users to navigate through and shop for the best prices.
+                              </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/Compare-And-Buy" class="card-link">Check It Out on Github</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Decuple</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">Unity, C#</h6>
+                              <p class="card-text">
+                              Decuple is a 10 level, fun filled obstacle course game developed in unity. It is developed for both PC and Mobile Platforms. On PC the player is controlled via the keyboard and on mobile the player is controlled via the built in gyroscope. The game was built in Unity Game Engine with C# Scripting. The main objective of the game is to collect all the gold coins and reach the final portal while dodging obstacles.
+                                                        </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/Roll10" class="card-link">Check It Out on Github</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Focus</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">Javascript, JQuery HTML, CSS</h6>
+                              <p class="card-text">
+                                  Focus is a Google Chrome Extension that allows the user to spend their time on the internet wisely. Staying focussed on the internet is difficult due to the many distracting websites. With the use of this extension users can set a focus session where they can block websites for a brief time period helping them to focus on their task better. This extension was built with HTML, CSS, JavaScript and JQuery. This extension currently has 343 weekly users and peeked at 17000 impressions in a day.
+                                </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/Focus" class="card-link">Check It Out on Github</a>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="image-container">
-                            <div class="image-left">
-                                <img src="nowUi/assets/img/projectBitmoji.png" alt = "">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Quizzlet</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">Java, MySQL</h6>
+                              <p class="card-text">
+                                  Quizzlet is an interactive application that allows teachers and students to create customized comprehensive quizzes that can be used for enriching the learning experience of children. This program was created at the University of Waterloo Engineering Hackathon. This interactive quizzing program was created using Swing and AWT Libraries in Java. This project uses Microsoft Access and utilizes SQL for database Queries. The program allows the user to create interactive quizzes with multiple choice, true/false, or short answer questions. All the quizzes are stored in the database and can be taken at any time.
+                                </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/Quizzlet" class="card-link">Check It Out on Github</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Jump</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">C++, Energia, Tiva C</h6>
+                              <p class="card-text">
+                                  JUMP is an interactive and fun-filled multi-level game where the main objective is to reach the end of the level by dodging obstacles. This game was built on a Tiva C Board with an Orbit Booster Pack add-on. Coded in Energia, this program uses a mixture of C, C++ and Tiva C Board functions. The human interaction of the game is developed using an LED Screen, Potentiometer, Accelerometer and Buttons. The major features of the game include its ability to create a new level on every play to keep the user engaged and the use of powerups to help finish a particular level. The game also utilizes the EEPROM on the Board to save the high scores.
+                              </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/JUMP" class="card-link">Check It Out on Github</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <div class="card" style="width: 20rem;">
-                            <img class="card-img-top" src="nowUi/assets/img/saint-laurent.jpg" alt="Card image cap">
+                          </div>
+                          <div class="carousel-item">
                             <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 class="card-title">Inventory Management Program</h4>
+                              <h6 class="card-subtitle mb-2 text-muted">Java, MySQL</h6>
+                              <p class="card-text">
+                                  Currently implemented in my High School, this interactive data management program was created using Swing and AWT Libraries in Java. This project uses Microsoft Access as a database and utilizes SQL to interact with the Java Program. This program helps the user to manage the inventory effectively. Its main functionalities include adding new entries to the inventory, modifying and deleting content from the inventory, tracking check-outs and check-ins of the inventory, managing the users, and renewal of the inventory. This program includes advanced search functionalities for easy finding. This project can be customized for many applications where data-management is required.
+                                  </p>
+                              <a target="_blank" href="https://github.com/aravind-segu/LibraryManagement" class="card-link">Check It Out on Github</a>
                             </div>
+                          </div>
                         </div>
+                      </div>
                     </div>
-                </div>
-
+                  </div>
             </div>
-        </div>
-    </div>
+          </div>
+          <div class="section">
+          <div class="contact-page" id="contact">
+            <div id="contactUs2Map" class="big-map" style="height:65vh; position: absolute"></div>
+            <div class="col-lg-6 col-md-10">
+              <div class="card card-contact card-raised" style="max-width:100%; margin-left:5%; margin-top:15%">
+                  <div class="card-header text-center">
+                    <h4 class="card-title">Get In Touch</h4>
+                  </div>
+                  <div class="card-body">
+                      <div class="row">
+                          <div class="col-md-6">
+                              <div class="info info-horizontal">
+                                  <div class="icon icon-primary">
+                                      <i class="now-ui-icons location_pin"></i>
+                                  </div>
+                                  <div class="description">
+                                      <h5 class="info-title">Find me coding</h5>
+                                      <p style="font-weight: 500"> 202 Lester St,
+                                          <br> Waterloo, ON
+                                          <br> N2L 3W6
+                                      </p>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="col-md-6">
+                              <div class="info info-horizontal">
+                                  <div class="icon icon-primary">
+                                      <i class="now-ui-icons ui-1_email-85"></i>
+                                  </div>
+                                  <div class="description">
+                                      <h5 class="info-title">Email me</h5>
+                                      <p style="font-weight: 500" id="email">yasegu@uwaterloo.ca</p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+          </div>
+        <footer class="footer footer-default " style="z-index: 200">
+            <div class="container" style="font-size: 1rem">
+                <nav>
+                    <ul>
+                        <li>
+                            &copy;
+                            <script>
+                                document.write(new Date().getFullYear())
+                            </script> Aravind Segu
+                        </li>
+                    </ul>
+                </nav>
+                <div class="copyright" style="font-size: 1rem">
+                    Made with <i id="code" class="fa fa-code imageAnimation" style="color: #e95e38"></i>
+                </div>
+            </div>
+        </footer>
+
+
+</div>
+
 </body>
 </html>
