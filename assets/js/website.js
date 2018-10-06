@@ -36,6 +36,15 @@ $(document).ready(function(){
     setTimeout( open, 2300 );
 });
 
+$(window).scroll(function (event) {
+    var scroll = $(window).scrollTop();
+    if(scroll >= 250){
+        $("#navImage").attr("src","assets/img/asLogo.png");
+    }else{
+        $("#navImage").attr("src","assets/img/asLogoWhite.png");
+    }
+});
+
 
 // $(document).on('mouseleave', '.carousel', function() {
 //

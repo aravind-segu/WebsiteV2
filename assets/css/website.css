@@ -209,6 +209,10 @@
   cursor: pointer;
 }
 
+.carouselCardItem:hover{
+    opacity: 1;
+}
+
 .activeCarouselCard{
   opacity: 1;
   border-left: solid;
