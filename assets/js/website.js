@@ -14,7 +14,7 @@ var open = function() {
     });
     var typed = new Typed('.typingText', {
         strings: ["Software Engineer . University Of Waterloo", "Passionate Developer",
-            "Backend Software Engineer at Reebee", "Oracle Certified Java Developer", "MLH Hackathon Medalist", "Dean's Honour's List Student"],
+            "Siri Understanding Software Engineer at Apple", "Oracle Certified Java Developer", "MLH Hackathon Medalist", "Dean's Honour's List Student"],
         typeSpeed: 40,
         backSpeed: 20,
         backDelay: 500,
